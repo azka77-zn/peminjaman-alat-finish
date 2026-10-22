@@ -1,0 +1,10 @@
+# Windows NTFS alternate data stream artifacts (from zip extraction on Windows)
+*:Zone.Identifier
+*Zone.Identifier*
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
